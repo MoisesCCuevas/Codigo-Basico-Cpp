@@ -1,6 +1,6 @@
 // librería estándar de entradas y salidas de C
 #include <stdio.h>
-#include <comio.h>
+//#include <comio.h>
 // librería estándar de funciones matemáticas de C
 #include <math.h>
 // librería estándar para trabajar con cadenas de texto
